@@ -1,0 +1,135 @@
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Uasset Reader.exe
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Uasset Reader.deps.json
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Uasset Reader.runtimeconfig.json
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\CommunityToolkit.HighPerformance.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\UE4Config.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\OffiUtils.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Oodle.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\SevenZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\WireMock.Org.Abstractions.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Zlib-ng.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\DiscordRPC.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\DotNetZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Serilog.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Serilog.Sinks.Console.dll
+C:\Users\TheDr\Downloads\Uasset Reader\bin\Release\net8.0-windows\Serilog.Sinks.File.dll
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset-Reader.csproj.AssemblyReference.cache
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\App.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.cache
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.lref
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\App.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.baml
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset Reader.g.resources
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset-Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset-Reader.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset-R.842068F2.Up2Date
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\refint\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\Uasset-Reader.genruntimeconfig.cache
+C:\Users\TheDr\Downloads\Uasset Reader\obj\Release\net8.0-windows\ref\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Uasset Reader.exe
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Uasset Reader.deps.json
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Uasset Reader.runtimeconfig.json
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\CommunityToolkit.HighPerformance.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\UE4Config.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\OffiUtils.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Oodle.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\SevenZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\WireMock.Org.Abstractions.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Zlib-ng.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\DiscordRPC.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\DotNetZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Serilog.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Serilog.Sinks.Console.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\bin\Release\net8.0-windows\Serilog.Sinks.File.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset-Reader.csproj.AssemblyReference.cache
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\App.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.cache
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.lref
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\App.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.baml
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset Reader.g.resources
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset-Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset-Reader.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset-R.842068F2.Up2Date
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\refint\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\Uasset-Reader.genruntimeconfig.cache
+C:\Users\TheDr\Downloads\Uasset Reader - Copie\obj\Release\net8.0-windows\ref\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Uasset Reader.exe
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Uasset Reader.deps.json
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Uasset Reader.runtimeconfig.json
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\CommunityToolkit.HighPerformance.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\UE4Config.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\OffiUtils.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Oodle.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\SevenZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\WireMock.Org.Abstractions.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Zlib-ng.NET.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\ZstdSharp.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\DiscordRPC.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\DotNetZip.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Serilog.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Serilog.Sinks.Console.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\bin\Release\net8.0-windows\Serilog.Sinks.File.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset-Reader.csproj.AssemblyReference.cache
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\App.g.cs
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.cache
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset Reader_MarkupCompile.lref
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\App.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportObjects.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\ImportView.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SettingsView.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Usercontrols\Overlays\SplashView.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset_Reader\Workspace\Views\MainView.baml
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset Reader.g.resources
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset-Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset-Reader.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset-R.842068F2.Up2Date
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\refint\Uasset Reader.dll
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset Reader.pdb
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\Uasset-Reader.genruntimeconfig.cache
+C:\Users\TheDr\Downloads\Uasset Reader No Update\obj\Release\net8.0-windows\ref\Uasset Reader.dll

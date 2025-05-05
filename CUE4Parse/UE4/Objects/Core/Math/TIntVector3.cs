@@ -1,0 +1,15 @@
+namespace CUE4Parse.UE4.Objects.Core.Math;
+
+public readonly struct TIntVector3<T> : IUStruct
+{
+	public readonly T X;
+
+	public readonly T Y;
+
+	public readonly T Z;
+
+	public override string ToString()
+	{
+		return $"{"X"}: {X}, {"Y"}: {Y}, {"Z"}: {Z}";
+	}
+}

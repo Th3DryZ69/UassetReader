@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Uasset Reader</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>Exe</OutputType>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net8.0-windows</TargetFramework>
+	<UseWindowsForms>true</UseWindowsForms>
+    <PlatformTarget>x64</PlatformTarget>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+    <ItemGroup>
+	    <ApplicationDefinition Include="Uasset_Reader\App.xaml" />
+    </ItemGroup>
+	<ItemGroup>
+		<Resource Include="Workspace\Assets\Settings.png" />
+		<Resource Include="Workspace\Assets\Fallback.png" />
+		<Resource Include="Workspace\Assets\Close.png" />
+		<Resource Include="Workspace\Assets\Minimize.png" />
+	</ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog">
+      <HintPath>Serilog.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip">
+      <HintPath>DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="DiscordRPC">
+      <HintPath>DiscordRPC.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4">
+      <HintPath>K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.File">
+      <HintPath>Serilog.Sinks.File.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.Console">
+      <HintPath>Serilog.Sinks.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle" Version="1.8.9" />
+    <PackageReference Include="Infrablack.UE4Config" Version="0.7.2.97" />
+    <PackageReference Include="OffiUtils" Version="2.0.1" />
+    <PackageReference Include="Oodle.NET" Version="2.1.0" />
+    <PackageReference Include="SevenZip" Version="19.0.0" />
+    <PackageReference Include="WireMock.Org.Abstractions" Version="1.8.1" />
+    <PackageReference Include="Zlib-ng.NET" Version="1.1.1" />
+    <PackageReference Include="ZstdSharp.Port" Version="0.8.5" />
+  </ItemGroup>
+</Project>
